@@ -1,6 +1,0 @@
-2015-02-28 11:00:23: (log.c.164) server started 
-2015-02-28 11:01:55: (server.c.1548) unlink failed for: /Users/bartoszzasieczny/Documents/ZOSIA/.git/pid 2 No such file or directory 
-2015-02-28 11:01:55: (server.c.1558) server stopped by UID = 501 PID = 6918 
-2015-02-28 11:01:55: (log.c.164) server started 
-2015-02-28 14:23:59: (server.c.1558) server stopped by UID = 501 PID = 7393 
-2015-02-28 14:24:04: (log.c.164) server started 
